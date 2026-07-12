@@ -89,8 +89,8 @@ Thanks to all the [contributors](https://github.com/correia-jpv/fucking-awesome-
 
 ## Motion Capture
 
-* <b><code>&nbsp;&nbsp;&nbsp;&nbsp;13⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2🍴</code></b> [Body Motion Capture and Animation](https://github.com/ShutovKS/Body-motion-capture-and-animation-in-Unity)) - Body motion capture with Python and OpenCV, real-time data transfer to Unity, and character animation using IK.
-* <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1🍴</code></b> [Hand Motion Capture and Animation](https://github.com/ShutovKS/Hand-motion-capture-and-animation-in-Unity)) - Hand motion capture with Python and OpenCV, real-time data transfer to Unity, and hand animation.
+* <b><code>&nbsp;&nbsp;&nbsp;&nbsp;13⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2🍴</code></b> [Body Motion Capture and Animation](https://github.com/SkS-GameDev/Body-motion-capture-and-animation-in-Unity)) - Body motion capture with Python and OpenCV, real-time data transfer to Unity, and character animation using IK.
+* <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1🍴</code></b> [Hand Motion Capture and Animation](https://github.com/SkS-GameDev/Hand-motion-capture-and-animation-in-Unity)) - Hand motion capture with Python and OpenCV, real-time data transfer to Unity, and hand animation.
 
 ## Networking
 
