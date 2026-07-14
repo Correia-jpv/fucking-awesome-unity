@@ -87,9 +87,14 @@ Thanks to all the [contributors](https://github.com/correia-jpv/fucking-awesome-
 ## Monetization
 * 🌎 [Unity Monetization](assetstore.unity.com/packages/add-ons/services/unity-monetization-66123) - Unity Ads is a video ad network with quick and seamless integration using regular and opt-in ads.
 
+## Motion Capture
+
+* <b><code>&nbsp;&nbsp;&nbsp;&nbsp;13⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2🍴</code></b> [Body Motion Capture and Animation](https://github.com/SkS-GameDev/Body-motion-capture-and-animation-in-Unity)) - Body motion capture with Python and OpenCV, real-time data transfer to Unity, and character animation using IK.
+* <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1🍴</code></b> [Hand Motion Capture and Animation](https://github.com/SkS-GameDev/Hand-motion-capture-and-animation-in-Unity)) - Hand motion capture with Python and OpenCV, real-time data transfer to Unity, and hand animation.
+
 ## Networking
 
-* 🌎 [Nakama](assetstore.unity.com/packages/tools/network/nakama-81338) - Build social and realtime games with an open-source <b><code>&nbsp;12875⭐</code></b> <b><code>&nbsp;&nbsp;1441🍴</code></b> [distributed server](https://github.com/heroiclabs/nakama)).
+* 🌎 [Nakama](assetstore.unity.com/packages/tools/network/nakama-81338) - Build social and realtime games with an open-source <b><code>&nbsp;12862⭐</code></b> <b><code>&nbsp;&nbsp;1440🍴</code></b> [distributed server](https://github.com/heroiclabs/nakama)).
 * 🌎 [Photon Bolt (Paid)](assetstore.unity.com/packages/tools/network/photon-bolt-free-127156) - Build networked games without having to know the details of networking or write any complex networking code.
 * 🌎 [Photon Unity Networking](assetstore.unity.com/packages/tools/network/photon-unity-networking-classic-free-1786) - Plug and play cloud networking that also works for local hosting. Free for up to 20 concurrent users.
 
@@ -120,7 +125,7 @@ Thanks to all the [contributors](https://github.com/correia-jpv/fucking-awesome-
 * <b><code>&nbsp;&nbsp;&nbsp;110⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8🍴</code></b> [Scene View Bookmarks](https://github.com/mminer/scene-view-bookmarks)) - Editor extension to bookmark and later recall scene views.
 * 🌎 [SnazzyGrid (Paid)](assetstore.unity.com/packages/tools/level-design/snazzygrid2-19245) - Makes it easy to manage positions of assets in the scene with easy to use snapping tools and many more features to improve the scene creation workflow.
 * 🌎 [UniMerge (Paid)](assetstore.unity.com/packages/tools/version-control/unimerge-9733) - Editor extension for merging scenes and prefabs, also integrates with VCS.
-* <b><code>&nbsp;&nbsp;7331⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;885🍴</code></b> [UniRx](https://github.com/neuecc/UniRx)) - UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions. Rx cures the "asynchronous blues" without async/await.
+* <b><code>&nbsp;&nbsp;7329⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;886🍴</code></b> [UniRx](https://github.com/neuecc/UniRx)) - UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions. Rx cures the "asynchronous blues" without async/await.
 * <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;?🍴</code></b> [UnityToolbag](https://github.com/nickgravelyn/unitytoolbag)) - Collection of miscellaneous open source scripts and helpers for Unity 5.0.
 
 ## Video
@@ -165,4 +170,4 @@ Please see [CONTRIBUTING](https://github.com/correia-jpv/fucking-awesome-unity/b
 TESTING
 
 ## Source
-<b><code>&nbsp;&nbsp;7101⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;734🍴</code></b> [RyanNielson/awesome-unity](https://github.com/RyanNielson/awesome-unity))
+<b><code>&nbsp;&nbsp;7100⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;734🍴</code></b> [RyanNielson/awesome-unity](https://github.com/RyanNielson/awesome-unity))
